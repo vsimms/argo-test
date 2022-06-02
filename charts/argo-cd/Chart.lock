@@ -3,4 +3,8 @@ dependencies:
   repository: https://argoproj.github.io/argo-helm
   version: 2.11.0
 digest: sha256:93edff6821c6f2a44380d1719304635dced1a963cf9a237aceaf613493e3fe33
+<<<<<<< HEAD
 generated: "2022-06-02T18:05:05.070906-04:00"
+=======
+generated: "2022-06-02T18:19:35.438715-04:00"
+>>>>>>> bee0fc0 (add argo-cd chart)
